@@ -4,7 +4,7 @@ Simple PCB that carries Luma, Chroma, and Ground lines with their respective com
 
 **It is recommended to use 28 AWG wire for this install.**
 
-![yRjULK4](https://github.com/joshman196/Simple-Genesis-Model-2-and-3-S-Video-Private/assets/114156648/3bed8a33-aab6-450d-a3d2-a9f45ef2fed9)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://github.com/joshman196/Genesis-Mega-Drive-Model-2-and-3-S-Video-PCB/assets/114156648/543f4dc6-861f-4786-9d35-8a69fe88996e)
 
 ## Parts Needed
 
@@ -42,12 +42,12 @@ Make sure to also pick up an S-Video jack as well. You can get these from consol
 
 ### "Standard" Through-Hole PCB (~33.274mm x ~16.891mm)
 
-![yRjULK4](https://github.com/joshman196/Simple-Genesis-Model-2-and-3-S-Video-Private/assets/114156648/3bed8a33-aab6-450d-a3d2-a9f45ef2fed9)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://github.com/joshman196/Genesis-Mega-Drive-Model-2-and-3-S-Video-PCB/assets/114156648/543f4dc6-861f-4786-9d35-8a69fe88996e)
 
 ### "Nano" Surface-Mount PCB (~16.002mm x ~8.179mm)
 
-![joSSxPG](https://github.com/joshman196/Simple-Genesis-Model-2-and-3-S-Video-Private/assets/114156648/92c2d6f9-c247-4f60-914e-0ed08982a316)
+![261790786-92c2d6f9-c247-4f60-914e-0ed08982a316](https://github.com/joshman196/Genesis-Mega-Drive-Model-2-and-3-S-Video-PCB/assets/114156648/e82085a6-a23f-4fe9-b673-4d43c76681a8)
 
 ### "Super Nano" Surface-Mount PCB (~9.423mm x ~7.468mm)
 
-![V20U6iC](https://github.com/joshman196/Simple-Genesis-Model-2-and-3-S-Video-Private/assets/114156648/2d73ad09-318c-45ec-9bd6-cd50883c7f2c)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://github.com/joshman196/Genesis-Mega-Drive-Model-2-and-3-S-Video-PCB/assets/114156648/d07cdbba-0d7a-473f-a14a-990fa6616962)
