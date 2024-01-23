@@ -4,7 +4,7 @@ Simple PCB that carries Luma, Chroma, and Ground lines with their respective com
 
 **It is recommended to use 28 AWG wire for this install.**
 
-![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://i.imgur.com/lE0joEZ.png)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://i.imgur.com/8AsgF77.png)
 
 ## Parts Needed
 
@@ -42,7 +42,7 @@ Make sure to also pick up an S-Video jack as well. You can get these from consol
 
 ### "Standard" Through-Hole PCB (~33.274mm x ~16.891mm)
 
-![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://i.imgur.com/lE0joEZ.png)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://i.imgur.com/8AsgF77.png)
 
 ### "Nano" Surface-Mount PCB (~16.002mm x ~8.179mm)
 
