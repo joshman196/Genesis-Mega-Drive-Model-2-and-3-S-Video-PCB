@@ -50,4 +50,4 @@ Make sure to also pick up an S-Video jack as well. You can get these from consol
 
 ### "Super Nano" Surface-Mount PCB (~9.423mm x ~7.468mm)
 
-![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://github.com/joshman196/Genesis-Mega-Drive-Model-2-and-3-S-Video-PCB/assets/114156648/d07cdbba-0d7a-473f-a14a-990fa6616962)
+![261792600-3bed8a33-aab6-450d-a3d2-a9f45ef2fed9](https://i.imgur.com/lO1IA0U.png)
